@@ -339,6 +339,9 @@
 .footer__column-links {
   padding-bottom: 16px;
   padding-left: 0;
+  margin: 0 auto;
+  padding-left: 0;
+  list-style: none;
 }
 
 .footer__column-link {
@@ -347,13 +350,6 @@
   font-weight: 400;
   color: #f2f2f2;
   text-decoration: none;
-}
-
-.footer__column-links {
-  margin: 0 auto;
-  padding-left: 0;
-  list-style: none;
-
 }
 
 .footer__social-icon {
