@@ -4,6 +4,8 @@
   font-weight: 400;
   z-index: 1;
   text-decoration: none;
+  align-self: flex-start;
+  color: #2f80ed;
 
 }
 
